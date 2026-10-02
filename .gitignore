@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# secrets
+.env
+.env.local
+.cometchat/
+
+*.log
+.DS_Store
